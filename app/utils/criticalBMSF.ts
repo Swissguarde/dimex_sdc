@@ -1,4 +1,4 @@
-import { Span } from "../types/calculator";
+import { Span } from "@/typings";
 import { calculateMaxBendingMoment, SpanBMSF } from "./calculateBMSF";
 import { LOAD_TYPES } from "./loadTypes";
 

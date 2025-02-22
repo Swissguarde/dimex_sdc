@@ -46,7 +46,7 @@ export default function Home() {
           </motion.button>
         </Link>
 
-        {/* <Link href="/frames">
+        <Link href="/frames">
           <motion.button
             className="px-6 py-3 bg-gray-800 text-white rounded-lg shadow-md hover:bg-gray-900 transition"
             whileHover={{ scale: 1.05 }}
@@ -54,7 +54,7 @@ export default function Home() {
           >
             FRAMES
           </motion.button>
-        </Link> */}
+        </Link>
       </motion.div>
     </main>
   );

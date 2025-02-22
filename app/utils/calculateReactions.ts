@@ -1,4 +1,4 @@
-import { Span, LoadType } from "../types/calculator";
+import { Span } from "../types/calculator";
 import { LOAD_TYPES } from "./loadTypes";
 import { FinalMoments } from "./calculateFinalMoments";
 
